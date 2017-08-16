@@ -1,7 +1,7 @@
 # devops-aula02
 Scarlett Johansson
-Jackie Chan.old
+Jackie Chan
 Angelina Jolie
-Vin Diesel
+
 
 
